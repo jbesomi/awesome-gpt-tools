@@ -1,8 +1,6 @@
-# Awesome GPT
+# Awesome GPT tools
 
-Curated list of awesome open-source apps built on top of GPT.
-
-The idea is to help us developers find ideas and starting code to build AI-powered apps. 
+The goal of this curated list is to help developers in discovering ideas and getting started with coding AI-powered applications.
 
 ### Generic Chatbots
 
@@ -28,4 +26,4 @@ The idea is to help us developers find ideas and starting code to build AI-power
 
 ### Contributions
 
-We are just getting started, contributions are welcome! 💪
+Contributions are welcome!! 💪
