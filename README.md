@@ -16,6 +16,7 @@ The goal of this curated list is to help developers in discovering ideas and get
 # Dev tools
 
 - [aicommits - A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
+- [happycommit - use homebrew to install "git commit-gpt". Writes git commit message with a diff of any size](https://github.com/jackbackes/happycommit)
 
 # Apps
 
