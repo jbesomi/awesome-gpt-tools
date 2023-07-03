@@ -20,6 +20,7 @@ The goal of this curated list is to help developers in discovering ideas and get
 
 # Apps
 
+- [Pagefelt - Mental Health Journal and AI Coach powered by ChatGPT](https://www.pagefelt.com?awesomegpttools)
 - [ShareGPT - Share your wildest ChatGPT conversations with one click](https://github.com/domeccleston/sharegpt)
 - [twitterbio - Generate your Twitter bio with ChatGPT and Vercel Edge Functions](https://github.com/Nutlope/twitterbio)
 - [news-summarizer - Summarize any news article with AI](https://github.com/Nutlope/news-summarizer)
