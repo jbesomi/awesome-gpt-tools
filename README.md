@@ -26,6 +26,7 @@ The goal of this curated list is to help developers in discovering ideas and get
 - [paul-graham-gpt - AI search & chat for all of Paul Graham’s essays](https://github.com/mckaywrigley/paul-graham-gpt)
 - [clarity-ai - A simple Perplexity AI clone](https://github.com/mckaywrigley/clarity-ai)
 - [notionGPT - Notion + ChatGPT]()
+- [No Stairs Please MCP - Remote MCP server & ChatGPT integration for searching 18,000+ verified independent live-music venues](https://nostairsplease.com/mcp)
 
 
 # Contributions
